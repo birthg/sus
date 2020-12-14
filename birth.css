@@ -169,7 +169,7 @@ body {
 
 #card.open-fully #card-front, #card.close-half #card-front {
   background-image: url("download2.jpg");
-  opacity: 0.5;
+  
   background-size: cover;
   }
 
