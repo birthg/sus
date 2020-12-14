@@ -7,6 +7,6 @@ if(password==pass)
 alert('correct password,click ok to enter website.');
 else
  {
-  window.location="birth.html";
+  window.location="index.html";
   }
   //-->
