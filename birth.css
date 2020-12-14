@@ -183,7 +183,7 @@ body {
 
 #card.open-fully #card-front .wrap {
 background-image: url("download2.jpg");
-opacity: 0.5;
+
 
 background-size: cover;
 }
